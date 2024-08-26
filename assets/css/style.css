@@ -55,6 +55,7 @@ header>div>p {
 }
 .airpods>img {
     width: 100%;
+    object-fit: cover;
 }
 .glass>img {
     width: 100%;
